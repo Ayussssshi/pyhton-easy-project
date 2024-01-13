@@ -1,1 +1,1 @@
-# pyhton-easy-project
+# python-easy-project
